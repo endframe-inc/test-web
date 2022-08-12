@@ -3063,7 +3063,6 @@ h3{
 }
 .legal-content{
   position:relative;
-  display:-ms-grid;
   max-width:1000px;
   margin-right:auto;
   margin-left:auto;
