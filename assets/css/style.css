@@ -3064,11 +3064,10 @@ h3{
 .legal-content{
   position:relative;
   display:-ms-grid;
-  display:grid;
-  max-width:1248px;
+  max-width:1000px;
   margin-right:auto;
   margin-left:auto;
-  padding-right:24px;
+  padding-right:12px;
   padding-left:12px;
   -webkit-box-align:start;
   -webkit-align-items:flex-start;
@@ -3802,7 +3801,7 @@ h3{
   }
   .legal-content{
       display:block;
-      padding-left:24px
+      padding-left: 12px
   }
   .legal-sidebar{
       position:static;
@@ -3863,7 +3862,7 @@ h3{
       height:25px
   }
   .logo-link.w--current{
-      width:72px;
+      /*width:72px;*/
       height:24px
   }
   .jobs{
