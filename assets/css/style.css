@@ -3044,8 +3044,8 @@ figcaption {
   }
 
   .container {
-    padding-right: 3rem;
-    padding-left: 3rem;
+    padding-right: 0.8rem;
+    padding-left: 0.8rem;
   }
 
   .cta-banner.large-cta-banner {
@@ -3309,7 +3309,7 @@ figcaption {
   }
 
   .md\:text-4xl{
-    font-size:2.25rem;
+    font-size:1.6rem;
     line-height:2.5rem
   }
 
@@ -3653,7 +3653,7 @@ figcaption {
   }
 
   .wel-text {
-    font-size: 3rem;
+    font-size: 2.2rem;
   }
 }
 
